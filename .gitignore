@@ -1,5 +1,6 @@
 *.zip
 *.log
+times-change.png
 .DS_Store
 Thumbs.db
 .idea/

@@ -1,7 +1,5 @@
 # Times Change
 
-![Times Change](times-change.png)
-
 Midnight added a lot of exciting new cinematics. This addon respectfully replaces them with Warlords of Draenor.
 
 No settings. No choices. Times change.
@@ -32,4 +30,4 @@ Built for World of Warcraft Retail 12.1.
 
 The Times Change addon source code is available under the [MIT License](LICENSE).
 
-The license applies only to material the copyright holder has authority to license. World of Warcraft and related names, trademarks, and content belong to Blizzard Entertainment. The project image `times-change.png` is not distributed under the MIT License.
+The license applies only to material the copyright holder has authority to license. World of Warcraft and related names, trademarks, and content belong to Blizzard Entertainment.
