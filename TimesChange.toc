@@ -2,8 +2,8 @@
 ## Title: Times Change
 ## Notes: Midnight -> Warlords of Draenor
 ## Author: stromboli78
-## Version: 1.0.2
+## Version: 1.0.3
 ## X-License: MIT
-## IconTexture: Interface\AddOns\TimesChange\times-change
+## IconTexture: Interface\AddOns\TimesChange\times-change.png
 
 TimesChange.lua

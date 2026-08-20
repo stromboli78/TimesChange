@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3 - 2026-08-20
+
+- Fixed the custom AddOns-list icon by using a power-of-two PNG and an explicit PNG texture path.
+
 ## 1.0.2 - 2026-08-20
 
 - Added a custom Times Change icon to the in-game AddOns list.
