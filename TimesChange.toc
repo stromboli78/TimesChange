@@ -3,6 +3,7 @@
 ## Notes: Midnight -> Warlords of Draenor
 ## Author: Tippit Patrol
 ## Version: 1.0.1
+## X-License: MIT
 ## IconTexture: Interface\Icons\Achievement_Character_Orc_Male
 
 TimesChange.lua

@@ -27,3 +27,9 @@ There is none. Disable the addon from the character-selection AddOns menu if the
 ## Compatibility
 
 Built for World of Warcraft Retail 12.1.
+
+## License
+
+The Times Change addon source code is available under the [MIT License](LICENSE).
+
+The license applies only to material the copyright holder has authority to license. World of Warcraft and related names, trademarks, and content belong to Blizzard Entertainment. The project image `times-change.png` is not distributed under the MIT License.
