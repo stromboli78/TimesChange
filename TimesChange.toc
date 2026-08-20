@@ -1,7 +1,7 @@
 ## Interface: 120100
 ## Title: Times Change
 ## Notes: Midnight -> Warlords of Draenor
-## Author: Tippit Patrol
+## Author: stromboli78
 ## Version: 1.0.1
 ## X-License: MIT
 ## IconTexture: Interface\Icons\Achievement_Character_Orc_Male
